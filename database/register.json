@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Otabek",
+    "lastname": "Abduvosiqov",
+    "email": "otabekabduvosiqov@gmail.com",
+    "createPassword": "12ne"
+  },
+  {
+    "id": 2,
+    "name": "Oybek",
+    "lastname": "Abduvosiqov",
+    "email": "oybekabduvosiqov@gmail.com",
+    "createPassword": "12ne"
+  }
+]
